@@ -48,7 +48,7 @@ namespace Labb1Del1
                 Console.WriteLine("2. Remove dog");
                 Console.WriteLine("3. Show info");
                 Console.WriteLine("4. Exit");
-                var input = Console.ReadKey();
+                var input = Console.ReadKey(true).Key;
 
                 switch (input)
                 {
@@ -56,10 +56,18 @@ namespace Labb1Del1
                         Console.WriteLine("Dogs Name");
                         string name = Console.ReadLine();
                         Console.WriteLine("Dogs Age");
-                        int Age = int.Parse(Console.ReadLine());
+                        int age = int.Parse(Console.ReadLine());
                         Console.WriteLine("Dogs breed");
                         string breed = Console.ReadLine();
+                        break;
 
+                    case 2:
+                        Console.WriteLine("What dog do you want to remove?");
+                        string nameOfDog = Console.ReadLine();
+                        Console.WriteLine("What age does it have?");
+                        int ageOfDog = int.Parse(Console.ReadLine());
+
+                        break;
                     default:
                         break;
                 }
