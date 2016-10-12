@@ -48,33 +48,52 @@ namespace Labb1Del1
                 Console.WriteLine("2. Remove dog");
                 Console.WriteLine("3. Show info");
                 Console.WriteLine("4. Exit");
-                var input = Console.ReadKey(true).Key;
+                var input = int.Parse(Console.ReadLine());
 
                 switch (input)
                 {
                     case 1:
+                        Console.Clear();
                         Console.WriteLine("Dogs Name");
                         string name = Console.ReadLine();
                         Console.WriteLine("Dogs Age");
                         int age = int.Parse(Console.ReadLine());
                         Console.WriteLine("Dogs breed");
                         string breed = Console.ReadLine();
-                        break;
 
+
+                        Dog newDog = new Dog
+                        {
+                            Name = name,
+                            Age = age,
+                            Breed = breed,
+
+                        };
+                        break;
                     case 2:
+                        Console.Clear();
                         Console.WriteLine("What dog do you want to remove?");
                         string nameOfDog = Console.ReadLine();
                         Console.WriteLine("What age does it have?");
                         int ageOfDog = int.Parse(Console.ReadLine());
 
                         break;
+
+                    case 3:
+                        Console.Clear();
+                        Console.WriteLine("Show all your dogs");
+                        foreach (var dog in dogs)
+                        {
+                            Console.WriteLine(dog.Name + " " + dog.Age + " " + dog.Breed);
+                        }
+                     break;
+
+                    case 4:
+                        Environment.Exit(0);
+                        break;
                     default:
                         break;
                 }
-                case ConsoleKey.Y:
-                Console.WriteLine(newDog.Introduction());
-
-                
 
             } while (true);
         }
