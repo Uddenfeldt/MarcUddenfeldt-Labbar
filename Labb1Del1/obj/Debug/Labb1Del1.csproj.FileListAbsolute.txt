@@ -1,0 +1,6 @@
+C:\Users\marcu\Desktop\VS grejjer\Labb1Del1\Labb1Del1\bin\Debug\Labb1Del1.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Labb1Del1\Labb1Del1\obj\Debug\Labb1Del1.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Labb1Del1\Labb1Del1\bin\Debug\Labb1Del1.exe
+C:\Users\marcu\Desktop\VS grejjer\Labb1Del1\Labb1Del1\bin\Debug\Labb1Del1.pdb
+C:\Users\marcu\Desktop\VS grejjer\Labb1Del1\Labb1Del1\obj\Debug\Labb1Del1.exe
+C:\Users\marcu\Desktop\VS grejjer\Labb1Del1\Labb1Del1\obj\Debug\Labb1Del1.pdb
