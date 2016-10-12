@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -34,6 +35,7 @@ namespace Labb1Del1
                 dog2,
                 dog3
             };
+            
             foreach (var dog in dogs)
             {
                 Console.WriteLine(dog.Name + " " + dog.Age + " " + dog.Breed);
@@ -61,7 +63,7 @@ namespace Labb1Del1
                         Console.WriteLine("Dogs breed");
                         string breed = Console.ReadLine();
 
-
+                        
                         Dog newDog = new Dog
                         {
                             Name = name,
@@ -69,13 +71,10 @@ namespace Labb1Del1
                             Breed = breed,
 
                         };
+                        dogs.Add(newDog);
                         break;
                     case 2:
-                        Console.Clear();
                         Console.WriteLine("What dog do you want to remove?");
-                        string nameOfDog = Console.ReadLine();
-                        Console.WriteLine("What age does it have?");
-                        int ageOfDog = int.Parse(Console.ReadLine());
 
                         break;
 
@@ -92,6 +91,9 @@ namespace Labb1Del1
                         Environment.Exit(0);
                         break;
                     default:
+                        Console.Clear();
+                        Console.WriteLine("Please listen you dumb fuck and press 1-4");
+                        
                         break;
                 }
 
