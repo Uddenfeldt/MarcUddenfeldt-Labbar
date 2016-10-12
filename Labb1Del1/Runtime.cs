@@ -75,9 +75,12 @@ namespace Labb1Del1
                         break;
                     case 2:
                         Console.WriteLine("What dog do you want to remove?");
-
+                        int index = int.Parse(Console.ReadLine());
+                        index = index - 1;
+                        dogs.RemoveAt(index);
+                        
+                        
                         break;
-
                     case 3:
                         Console.Clear();
                         Console.WriteLine("Show all your dogs");
