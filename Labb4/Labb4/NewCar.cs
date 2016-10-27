@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Labb3
+namespace Labb4
 {
-    public class Kiss : Concert
+    public class NewCar : Vehicle
     {
-          
+        public NewCar NewCar1{ get; set; }
     }
 }

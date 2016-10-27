@@ -4,3 +4,9 @@ c:\users\marcu\onedrive\dokument\visual studio 2015\Projects\Labb2\Labb2\bin\Deb
 c:\users\marcu\onedrive\dokument\visual studio 2015\Projects\Labb2\Labb2\bin\Debug\Labb2.pdb
 c:\users\marcu\onedrive\dokument\visual studio 2015\Projects\Labb2\Labb2\obj\Debug\Labb2.exe
 c:\users\marcu\onedrive\dokument\visual studio 2015\Projects\Labb2\Labb2\obj\Debug\Labb2.pdb
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb2\Labb2\bin\Debug\Labb2.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb2\Labb2\obj\Debug\Labb2.exe
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb2\Labb2\obj\Debug\Labb2.pdb
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb2\Labb2\bin\Debug\Labb2.exe
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb2\Labb2\bin\Debug\Labb2.pdb
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb2\Labb2\obj\Debug\Labb2.csprojResolveAssemblyReference.cache

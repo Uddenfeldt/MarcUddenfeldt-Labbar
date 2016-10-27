@@ -8,5 +8,6 @@ namespace Labb3
     public class Concert : Tickets
     {
         public string Band { get; set; }
+        public string Genre { get; set; }
     }
 }

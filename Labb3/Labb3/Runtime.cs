@@ -16,16 +16,18 @@ namespace Labb3
                  Date = new DateTime(1994,12,25,12,25,00,00),
                  Location = "Wembley Stadium ",
                  NameOfBooker = "Eric ",
-                 Band = "Kiss "
+                 Band = "Kiss ",
+                 Genre = "Rock"
 
             };
             Dance dance = new Dance
             {
-                Category = "Dancehall ",
+                Category = "Concert ",
                 Date = new DateTime (2006,01,18,13,30,00,00),
                 Location = "Tele 2 Arena ",
                 NameOfBooker = "Gustaf ",
-                Band = "Das Boot "
+                Band = "Das Boot ",
+                Genre = "Dance music"
             };
 
             MarcsLife marcsLife = new MarcsLife
@@ -95,7 +97,7 @@ namespace Labb3
                         Console.Clear();
                         foreach (var item in concerts)
                         {
-                            Console.WriteLine("Band: "+ item.Band + "Category: " + item.Category + "Date: " + item.Date + " Location: " + item.Location + "Buyer of ticket: " + item.NameOfBooker);
+                            Console.WriteLine("Genre: " + item.Genre + " Band: " + item.Band + "Category: " + item.Category + "Date: " + item.Date + " Location: " + item.Location + "Buyer of ticket: " + item.NameOfBooker);
                         }
                         break;
 
