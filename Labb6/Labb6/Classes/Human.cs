@@ -10,7 +10,9 @@ namespace Labb6.Interfaces
 {
     class Human : INonPlayerCharacter
     {
-        public string name { get; set; }
+        
+    
+        public string Name { get; set; }
        
 
         public virtual string ObserveCharacter()
@@ -21,7 +23,7 @@ namespace Labb6.Interfaces
 
         public virtual bool Talk()
         {
-            Console.WriteLine("{0}: Hi", name);
+            Console.WriteLine("{0}: Hi", Name);
             return false;
         }
     }

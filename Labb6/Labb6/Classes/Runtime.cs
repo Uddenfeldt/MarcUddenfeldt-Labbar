@@ -17,12 +17,14 @@ namespace Labb6.Classes
             {
                 case ConsoleKey.D1:
                 case ConsoleKey.NumPad1:
-
+                    
                     break;
 
                 case ConsoleKey.D2:
                 case ConsoleKey.NumPad2:
-
+                    Console.Clear();
+                    Menus.HowTo();
+                    Console.ReadLine();
                     break;
 
                 case ConsoleKey.D3:

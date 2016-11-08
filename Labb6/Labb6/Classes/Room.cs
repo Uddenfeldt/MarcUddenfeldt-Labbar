@@ -28,6 +28,7 @@ namespace Labb6.Interfaces
 
         public void Observe()
         {
+
             foreach (var nonPlayerCharacter in NonPlayerCharacters)
             {
                 Console.WriteLine("You see a ");

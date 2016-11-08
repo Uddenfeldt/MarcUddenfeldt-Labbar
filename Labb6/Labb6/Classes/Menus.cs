@@ -17,5 +17,13 @@ namespace Labb6.Classes
             Console.WriteLine("2. How to");
             Console.WriteLine("3. Exit");
         }
+
+        public static void HowTo()
+        {
+            Console.WriteLine("How to");
+            Console.WriteLine("------------------------------------");
+            Console.WriteLine("You play the game and you are happy.");
+            Console.WriteLine("If youre not happy i will kill you");
+        }
     }
 }

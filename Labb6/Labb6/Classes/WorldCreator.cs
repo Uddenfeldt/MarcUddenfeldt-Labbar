@@ -9,6 +9,14 @@ namespace Labb6.Classes
 {
     class WorldCreator : IEnvironment
     {
+        public string Description { get; set; }
+        
+        public List<INonPlayerCharacter> NonPlayerCharacters { get; set; }
+        
 
+        public void Observe()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
