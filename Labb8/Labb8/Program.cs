@@ -10,6 +10,8 @@ namespace Labb8
     {
         static void Main(string[] args)
         {
+            var Runtime = new Runtime();
+            Runtime.Start();
         }
     }
 }
