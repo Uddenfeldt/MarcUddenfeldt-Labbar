@@ -1,0 +1,6 @@
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb8\Labb8\bin\Debug\Labb8.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb8\Labb8\obj\Debug\Labb8.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb8\Labb8\bin\Debug\Labb8.exe
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb8\Labb8\bin\Debug\Labb8.pdb
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb8\Labb8\obj\Debug\Labb8.exe
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb8\Labb8\obj\Debug\Labb8.pdb

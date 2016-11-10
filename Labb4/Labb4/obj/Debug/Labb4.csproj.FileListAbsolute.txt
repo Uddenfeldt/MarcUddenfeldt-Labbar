@@ -1,0 +1,6 @@
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb4\Labb4\bin\Debug\Labb4.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb4\Labb4\bin\Debug\Labb4.exe
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb4\Labb4\bin\Debug\Labb4.pdb
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb4\Labb4\obj\Debug\Labb4.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb4\Labb4\obj\Debug\Labb4.exe
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb4\Labb4\obj\Debug\Labb4.pdb

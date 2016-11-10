@@ -1,0 +1,6 @@
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb7\Labb7\bin\Debug\Labb7.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb7\Labb7\obj\Debug\Labb7.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb7\Labb7\bin\Debug\Labb7.exe
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb7\Labb7\bin\Debug\Labb7.pdb
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb7\Labb7\obj\Debug\Labb7.exe
+C:\Users\marcu\Desktop\VS grejjer\Labbar\Labb7\Labb7\obj\Debug\Labb7.pdb
